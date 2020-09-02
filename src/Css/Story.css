@@ -1,0 +1,28 @@
+
+.bodyStyle{
+    background-color: antiquewhite;
+    margin: 0 5%;
+    margin-top: 10px;
+    padding:10px 10px;
+}
+
+.title{
+    font-weight: bold;
+    display: block;
+   color: #000000;
+    font-size: 10pt;
+    font-family: Verdana,  Tahoma, sans-serif;
+}
+p .By{
+    font-weight: normal;
+    font-size: 7pt;
+    color: #828282;
+}
+.pagination{
+  margin :auto;
+  padding:0 10px
+  
+}
+h1{
+    color:orangered
+}
